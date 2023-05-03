@@ -2,6 +2,10 @@
 
 Quelques notes d'installation d'un cluster Kubernetes avec la distribution [Kubespray](https://github.com/kubernetes-sigs/kubespray)
 
+## Rappels : Kubernetes 
+
+Quelques tutos de rappels sur Kubernetes (et la notion sous-jacente : la conteneurisation) : https://github.com/olevitt/tutoriels
+
 ## Sur chaque noeud
 
 - OS installé (Ubuntu / Debian 11)
